@@ -1,10 +1,6 @@
 package com.sliit.ssd.csrfapp.models;
 
-/**
- * Represents a fund transfer entity
- *
- * Created by dinukshakandasamanage on 9/6/18.
- */
+
 public class FundTransfer {
 
     private String to;
