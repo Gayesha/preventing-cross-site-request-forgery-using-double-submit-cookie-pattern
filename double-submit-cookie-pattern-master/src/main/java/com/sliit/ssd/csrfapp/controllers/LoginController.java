@@ -12,11 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Controller for handling login requests
- *
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 
 @Controller
 public class LoginController {
