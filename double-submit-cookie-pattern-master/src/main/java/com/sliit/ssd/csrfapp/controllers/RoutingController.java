@@ -10,9 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * Created by dinukshakandasamanage on 9/9/18.
- */
+
 @Controller
 public class RoutingController {
 
