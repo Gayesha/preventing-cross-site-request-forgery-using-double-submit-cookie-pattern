@@ -1,8 +1,5 @@
 package com.sliit.ssd.csrfapp;
 
-/**
- * Created by dinukshakandasamanage on 9/5/18.
- */
 
 import com.sliit.ssd.csrfapp.models.UserCredentialsStore;
 import org.springframework.boot.SpringApplication;
