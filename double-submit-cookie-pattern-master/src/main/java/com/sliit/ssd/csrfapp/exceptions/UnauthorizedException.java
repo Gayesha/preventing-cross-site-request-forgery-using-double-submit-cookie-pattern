@@ -3,9 +3,7 @@ package com.sliit.ssd.csrfapp.exceptions;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-/**
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 @ResponseStatus(value= HttpStatus.UNAUTHORIZED, reason="User not authenticated")
 public class UnauthorizedException extends Exception {
 
