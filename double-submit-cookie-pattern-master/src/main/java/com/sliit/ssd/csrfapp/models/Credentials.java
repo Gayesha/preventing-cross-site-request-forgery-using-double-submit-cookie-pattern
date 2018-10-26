@@ -1,10 +1,6 @@
 package com.sliit.ssd.csrfapp.models;
 
-/**
- * Represents credentials entity
- *
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 public class Credentials {
     private String username;
     private String password;
