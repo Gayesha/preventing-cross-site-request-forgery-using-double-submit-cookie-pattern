@@ -13,11 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * Handles fund transfer functions
- *
- * Created by dinukshakandasamanage on 9/6/18.
- */
+
 @Controller
 public class FundsController {
 
