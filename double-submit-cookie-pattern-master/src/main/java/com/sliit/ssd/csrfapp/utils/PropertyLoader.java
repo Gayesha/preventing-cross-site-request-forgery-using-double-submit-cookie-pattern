@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 public class PropertyLoader {
 
     private static volatile PropertyLoader propertyLoader;
