@@ -15,11 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Handles authentication related tasks
- *
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 
 @Service
 public class AuthenticationService {
