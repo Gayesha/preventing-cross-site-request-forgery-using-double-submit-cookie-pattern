@@ -5,11 +5,7 @@ import com.sliit.ssd.csrfapp.utils.PropertyLoader;
 
 import java.util.HashMap;
 
-/**
- * Stores user data such as sessionIDs, CSRF Tokens, username, password against username
- *
- * Created by dinukshakandasamanage on 9/5/18.
- */
+
 public class UserCredentialsStore {
 
     private HashMap<String, Credentials> credentialsStore;
